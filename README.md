@@ -2,4 +2,4 @@
 
 This is a simple calculator doing some operations
 
-Status: in development
+Status: supports add and multiply
