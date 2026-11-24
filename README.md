@@ -2,4 +2,4 @@
 
 This is a simple calculator doing some operations
 
-Status: supports add and subtract
+Status: supports add, subtract and multiply
